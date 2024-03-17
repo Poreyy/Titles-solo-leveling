@@ -1,0 +1,12 @@
+name: Titles
+version: '1.0.0'
+main: me.poreyy.titles.TitlesPlugin
+api-version: '1.20'
+prefix: Titles
+load: STARTUP
+author: Poreyy
+description: A plugin that adds titles obtainable by completing specific things.
+
+commands:
+  title:
+    description: Pick a buff title.

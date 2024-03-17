@@ -1,0 +1,11 @@
+me\poreyy\titles\commands\TitleCommand.class
+me\poreyy\titles\utils\Colorize.class
+me\poreyy\titles\title\Title.class
+me\poreyy\titles\user\User.class
+me\poreyy\titles\user\UserListener.class
+me\poreyy\titles\scoreboard\ScoreboardHandler.class
+me\poreyy\titles\user\UserManager.class
+me\poreyy\titles\title\TitleListener.class
+me\poreyy\titles\listeners\ChatListener.class
+me\poreyy\titles\TitlesPlugin.class
+me\poreyy\titles\title\titles\ZombieAssassinTitle.class
